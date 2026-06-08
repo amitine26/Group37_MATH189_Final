@@ -62,5 +62,5 @@ The ZORI regression yielded an interaction coefficient of -0.0122 with a p-value
 
 ## Limitations
 
-* **Geographic Granularity:** The ZORI long-term rent dataset was aggregated at the ZIP code level, which is much broader than the coordinate-level data provided by InsideAirbnb. This discrepancy may have diluted highly localized rent changes on specific streets or blocks.
+* **Geographic Resolution:** The ZORI long-term rent dataset was aggregated at the ZIP code level, which is much broader than the coordinate-level data provided by InsideAirbnb. This discrepancy may have diluted highly localized rent changes on specific streets or blocks.
 * **Macroeconomic Confounders:** Observing market changes over a two-year period introduces confounding variables (e.g., inflation, shifting Federal Reserve interest rates, post-pandemic travel trends) that the current models could not fully isolate.
